@@ -13,7 +13,7 @@ This is a simple calculator application built with React. It allows users to per
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone [https://github.com/your-username/calculator-app.git](https://github.com/Prateek-Fst/React-Calculator.git)
 2. npm install
 3. npm start
 ## How to use
